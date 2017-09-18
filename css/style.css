@@ -225,21 +225,13 @@ span.icon-bar {
 
 .sts {
   height: 200px;
-  background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
-.about-title {
-  background-image: url(/img/about.png);
-}
-
-.work-title {
-  background-image: url(/img/work.png);
-}
-
-.pricing-title {
-  background-image: url(/img/pricing.png);
+.page-title {
+  background-image: url(http://www.llwgs.org/images/Parrot_Feather.JPG);
 }
 
 #pricing-body {
