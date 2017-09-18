@@ -211,18 +211,6 @@ span.icon-bar {
   }
 }
 
-@media screen and (max-width: 692px) {
-  .section-title {
-    margin-top: 45px;
-  }
-}
-
-@media screen and (max-width: 499px) {
-  .section-title {
-    margin-top: 25px;
-  }
-}
-
 .sts {
   height: 200px;
   background-size: cover;
