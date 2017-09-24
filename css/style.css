@@ -24,11 +24,24 @@
 
    p, a, h4, h5, h6 {
      font-family: 'Montserrat';
-     font-weight: 300;
+     font-weight: 400;
+   }
+
+   p {
+     margin-right: 20px;
+     line-height: 25px;
+   }
+
+   li.desc {
+     font-family: 'Montserrat';
+     font-weight: 400;
+     margin-right: 20px;
+     line-height: 25px;
    }
 
    h1, h2, h3 {
      font-family: 'Bitter';
+     margin-top: 10px;
    }
 
    a {
@@ -216,6 +229,7 @@ span.icon-bar {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  margin-bottom: 10px;
 }
 
 .page-title {
@@ -351,4 +365,54 @@ i.fa:hover {
   .skype-contact {
     width: 100%;
   }
+}
+
+.img-1 {
+  background-image: url(https://thomascountyag.files.wordpress.com/2014/03/danparramore-parrotfeather-003.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 500px;
+}
+
+.img-2 {
+  background-image: url(https://bugwoodcloud.org/maps/eddmapscounty/3054.jpg);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 225px;
+}
+
+.img-3 {
+  background-image: url(http://www.michigan.gov/images/invasives/Parrotfeatherinwater_502745_7.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 340px;
+}
+
+.img-4 {
+  background-image: url(https://www.nps.gov/plants/alien./pubs/midatlantic/img/myaq-Graves_Lovell.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 300px;
+}.img-5 {
+  background-image: url(http://www.michigan.gov/images/invasives/Parrotfeatherinvasion_502744_7.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 300px;
+}.img-6 {
+  background-image: url(https://nwcb.wa.gov/images/weeds/parrotfeather/_thumbnail/Parrotfeather2.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 300px;
+}.img-7 {
+  background-image: url(http://www.ecy.wa.gov/programs/wq/plants/weeds/images/ParrotfeatherFrond.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 300px;
 }
